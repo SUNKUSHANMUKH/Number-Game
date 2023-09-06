@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class NumberGuessingGame {
 
     public static void main(String[] args) {
-        // Generate a random number
         int randomNumber = (int) (Math.random() * 100) + 1;
         Scanner scanner = new Scanner(System.in);
         int guesses = 0;

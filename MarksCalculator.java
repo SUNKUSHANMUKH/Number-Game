@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class MarksCalculator {
 
     public static void main(String[] args) {
-        // Get the number of subjects
         System.out.println("Enter the number of subjects: ");
         Scanner scanner = new Scanner(System.in);
         int numberOfSubjects = scanner.nextInt();

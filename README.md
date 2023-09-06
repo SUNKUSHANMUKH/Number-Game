@@ -1,2 +1,2 @@
-# Number-Game
-codsoft
+# Codsoft
+java programming
